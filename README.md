@@ -1,4 +1,5 @@
-# DO NOT READ THIS IF YOU HAVE NOT DONE THE PROBLEMS YOURSELF. SPOILER ALERT
+# SPOILER ALERT
+# DO NOT READ THESE SOLUTIONS THIS IF YOU HAVE NOT DONE THE PROBLEMS YOURSELF.
 
 I'm posting my answers to the [LearnYouNode](http://nodeschool.io/#learn-you-node) problems so people can see what I wrote and call me stupid for doing so.
 
